@@ -1,0 +1,26 @@
+title{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/a6/fa/a9/a6faa9a27aafa4d502e8947c712ed930.gif);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+  
+  form {
+    background-color: rgba(12, 42, 209, 0.6); 
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 50px auto;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+  }
